@@ -1,0 +1,31 @@
+# Simulation outputs
+sim_out/
+waves/*.vcd
+waves/*.fsdb
+waves/*.vpd
+
+# Firmware build artifacts
+firmware/firmware.elf
+firmware/firmware.bin
+firmware/boot_rom.mem
+
+# EDA tool outputs
+*.log
+*.pb
+*.xml
+*.ucdb
+*.vdb
+*.shm/
+csrc/
+DVEfiles/
+urgReport/
+verdiLog/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*~
