@@ -1,6 +1,6 @@
 # Neural Edge SoC — Pre-Silicon Emulation & Validation Environment
 
-> An end-to-end SoC validation project inspired by Amazon Lab126's AZ1 Neural Edge chip.  
+> An end-to-end SoC validation project. 
 > Covers RTL design, bare-metal firmware bring-up, UVM-based pre-silicon emulation, and functional coverage closure.
 
 ---
